@@ -196,6 +196,7 @@ h1, h2, h3, h4, p {
 .home-content-wrapper {
   width: 100vw;
   height: 100vh;
+  height: 100dvh;
   /* background: $colork1; */
   /* overflow: hidden; */
   position: absolute;
